@@ -17,3 +17,20 @@ class ViewController: UIViewController {
 
 }
 
+class MainTabBarVC: UITabBarController {
+    deinit {
+        print("MainTabBarVC deinit")
+    }
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.tabBar.tintColor = UIColor.label
+    }
+}
+
+class NetworkCheckingViewController: UIViewController {
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+    }
+}
+
