@@ -12,7 +12,11 @@
     - 앱서비스의 전체 사이클을 경험해볼 수 있음
 - 앱스토어 출시 경험
 
----
+## Skills
+
+`iOS` `Swift` 
+
+`UIKit` `FirebaseFirestore`  `CoreData`  `KingFisher` `SwiftSoup` `MVC` `AutoLayout`
 
 ## ▪️ 구상
 
