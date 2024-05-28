@@ -47,9 +47,11 @@
     1. 상품 선택시 해당 상품의 브랜드 웹사이트 상품페이지로 이동
     2. 당겨서 새로고침
 
-![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02.30.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79f9d43f-2c36-47bc-bb56-98ce9143fae5/Simulator_Screenshot_-_iPhone_14_-_2023-06-21_at_02.30.30.png)
+![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 30](https://github.com/chobo5/Room28/assets/102145785/3d50438a-8fa6-4c40-823d-f823afc4257d)
 
-![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18.22.04.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f5de7d4-017a-4e32-964a-ec6fb2407e48/Simulator_Screenshot_-_iPhone_14_-_2023-06-22_at_18.22.04.png)
+![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18 22 04](https://github.com/chobo5/Room28/assets/102145785/80478a38-af1f-4f21-b063-4b2c85e9ff49)
+
+
 
 ### Brands Tab
 
@@ -58,9 +60,10 @@
     1. 상품 선택시 해당 상품의 브랜드 웹사이트 상품페이지로 이동
 3. 검색기능
 
-![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02.30.47.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/753553e1-d739-486e-aa77-22c69c0d2e23/Simulator_Screenshot_-_iPhone_14_-_2023-06-21_at_02.30.47.png)
+![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 47](https://github.com/chobo5/Room28/assets/102145785/ad4a522d-398b-4c38-8adf-57f917351fd1)
 
-![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18.15.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c9cd4c1-39e7-4315-a1bd-a5a938d188a5/Simulator_Screenshot_-_iPhone_14_-_2023-06-22_at_18.15.11.png)
+![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18 15 11](https://github.com/chobo5/Room28/assets/102145785/8db3fbef-30a4-4477-9bc7-843823baf347)
+
 
 ### More Tab
 
@@ -70,7 +73,8 @@
 4. 공지사항 - 앱에서 사용자들에게 공지사항 작성
 5. 개인정보 처리 방침
 
-![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02.30.50.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d0f773a-b65d-4e1f-a8a2-0cb3fe0f3ddc/Simulator_Screenshot_-_iPhone_14_-_2023-06-21_at_02.30.50.png)
+![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 50](https://github.com/chobo5/Room28/assets/102145785/f2b2daf4-dc83-4c10-9bee-5630d24a54cf)
+
 
 
 ### 📝 Learned
