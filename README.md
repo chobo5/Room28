@@ -46,10 +46,11 @@
 3. 브랜드셀 선택시 최근 발매 순 상품 리스트 페이지로 이동
     1. 상품 선택시 해당 상품의 브랜드 웹사이트 상품페이지로 이동
     2. 당겨서 새로고침
+![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 30](https://github.com/chobo5/Room28/assets/102145785/3d50438a-8fa6-4c40-823d-f823afc4257d){: width="500"} | ![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18 22 04](https://github.com/chobo5/Room28/assets/102145785/80478a38-af1f-4f21-b063-4b2c85e9ff49){: width="500"} 
+---|---|
 
-![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 30](https://github.com/chobo5/Room28/assets/102145785/3d50438a-8fa6-4c40-823d-f823afc4257d)
 
-![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18 22 04](https://github.com/chobo5/Room28/assets/102145785/80478a38-af1f-4f21-b063-4b2c85e9ff49)
+
 
 
 
