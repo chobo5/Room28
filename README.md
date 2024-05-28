@@ -46,8 +46,13 @@
 3. 브랜드셀 선택시 최근 발매 순 상품 리스트 페이지로 이동
     1. 상품 선택시 해당 상품의 브랜드 웹사이트 상품페이지로 이동
     2. 당겨서 새로고침
-![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 30](https://github.com/chobo5/Room28/assets/102145785/3d50438a-8fa6-4c40-823d-f823afc4257d){: width="500" height="1000"} | ![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18 22 04](https://github.com/chobo5/Room28/assets/102145785/80478a38-af1f-4f21-b063-4b2c85e9ff49){: width="500" height="1000"}
----|---|
+  
+
+<p align="center"> 
+    <img src="https://github.com/chobo5/Room28/assets/102145785/3d50438a-8fa6-4c40-823d-f823afc4257d" align="center" width="40%"> 
+    <img src="https://github.com/chobo5/Room28/assets/102145785/80478a38-af1f-4f21-b063-4b2c85e9ff49" align="center" width="40%">  
+</p>
+
 
 
 
@@ -61,9 +66,11 @@
     1. 상품 선택시 해당 상품의 브랜드 웹사이트 상품페이지로 이동
 3. 검색기능
 
-![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 47](https://github.com/chobo5/Room28/assets/102145785/ad4a522d-398b-4c38-8adf-57f917351fd1)
+<p align="center"> 
+    <img src="https://github.com/chobo5/Room28/assets/102145785/ad4a522d-398b-4c38-8adf-57f917351fd1" align="center" width="40%"> 
+    <img src="https://github.com/chobo5/Room28/assets/102145785/8db3fbef-30a4-4477-9bc7-843823baf347" align="center" width="40%">  
+</p>
 
-![Simulator Screenshot - iPhone 14 - 2023-06-22 at 18 15 11](https://github.com/chobo5/Room28/assets/102145785/8db3fbef-30a4-4477-9bc7-843823baf347)
 
 
 ### More Tab
@@ -74,8 +81,9 @@
 4. 공지사항 - 앱에서 사용자들에게 공지사항 작성
 5. 개인정보 처리 방침
 
-![Simulator Screenshot - iPhone 14 - 2023-06-21 at 02 30 50](https://github.com/chobo5/Room28/assets/102145785/f2b2daf4-dc83-4c10-9bee-5630d24a54cf)
-
+<p align="center"> 
+    <img src="https://github.com/chobo5/Room28/assets/102145785/f2b2daf4-dc83-4c10-9bee-5630d24a54cf" align="center" width="40%"> 
+</p>
 
 
 ### 📝 Learned
